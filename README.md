@@ -40,7 +40,7 @@ int main()
 	return 0;
 }
 
-berikut hasil screnshotnya :
+berikut hasil screnshot latihan1.cpp :
 ![latihan1](https://user-images.githubusercontent.com/44117281/48596831-3b56b980-e98d-11e8-846f-eb3d53468028.png)
 
 
@@ -82,4 +82,7 @@ int main()
 
 	return 0;
 }
+
+berikut hasil screenshot latihan2.cpp :
+![latihan2](https://user-images.githubusercontent.com/44117281/48596881-7eb12800-e98d-11e8-99f7-9dea55971a61.png)
 
