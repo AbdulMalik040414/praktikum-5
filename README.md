@@ -40,6 +40,10 @@ int main()
 	return 0;
 }
 
+berikut hasil screnshotnya :
+![latihan1](https://user-images.githubusercontent.com/44117281/48596831-3b56b980-e98d-11e8-846f-eb3d53468028.png)
+
+
 ## latihan2.cpp : program menggunakan operator logika Or
 
 ## menginputkan tiga buah bilangan, cetak "benar bila salah satu bilangan merupakan jumlah dari dua buah bilangan yang lain, jika tidak (selain itu) cetak "salah"
