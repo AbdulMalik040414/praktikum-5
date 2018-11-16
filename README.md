@@ -52,6 +52,9 @@ int main()
   3. (b+c==a)
 4. jika nilai kondisi di atas bernilai true maka cetak "Benar" jika false maka cetak "Salah"
 
+berikut flowchart nya :
+![latihan2](https://user-images.githubusercontent.com/44117281/48596565-32b1b380-e98c-11e8-8136-4fab566476e3.jpg)
+
 berikut code lengkapnya :
 #include <iostream>
 
