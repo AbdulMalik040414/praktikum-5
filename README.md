@@ -14,6 +14,9 @@
    b. di dalam while terdapat kondisi a tidak sama dengan nol "a!=0"
  3. mencetakan nilai terbesar yang di inputkan tersebut ke consol "cout << max;"
  
+ berikut flowchart nya :
+ ![latihan1](https://user-images.githubusercontent.com/44117281/48596514-ef574500-e98b-11e8-980b-7e88c9de91ae.jpg)
+ 
  berikut code lengkap nya :
  #include <iostream>
 
