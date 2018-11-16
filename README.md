@@ -5,10 +5,12 @@
 ## menginputkan bilangan sebanyak banyaknya, sampai kondisi bilangan yang dimasukan angka nol
 1. membuat inisialisasi "int a, max=0;"
 2. membuat perulangan dengan menggunakan Do While,
+
    a. di dalam body Do terdapat aksi sebagai berikut :
     - memasukan nilai a "cin >> a;"
     - membuat if statement dengan kondisi a lebih besar dari max "a>max"
     - jika a lebih besar dari max maka max sama dengan a "max=a"
+    
    b. di dalam while terdapat kondisi a tidak sama dengan nol "a!=0"
  3. mencetakan nilai terbesar yang di inputkan tersebut ke consol "cout << max;"
  
